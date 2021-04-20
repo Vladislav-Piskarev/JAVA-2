@@ -1,0 +1,20 @@
+.picBg {
+    -fx-background-image: url('Pictures.png');
+    -fx-background-size: 100% 100%;
+}
+
+#textArea {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+}
+
+#textField {
+    -fx-background-color: lightgoldenrodyellow;
+    -fx-border-color: black;
+    -fx-border-style: solid;
+}
+
+#sendBtn {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+}
